@@ -29,3 +29,14 @@ Bole Ring Road, Addis Ababa, Ethiopia (GPS: 8.983220, 38.780600)
 - Vehicle count bar charts
 - Passenger estimation charts
 - Time-based traffic summaries
+
+## Results and Visualizations
+
+### 1. Vehicle Count by Type
+![Vehicle Count](figures/Vehicle_count_per_transport_mode.png)
+
+### 2. Estimated Passenger Flow
+![Passenger Flow](figures/Vehicle_Estimated_Passengers.png.png)
+
+### 3. Traffic Pattern by Time Period
+![Time Period](figures/traffic_flow_intensity.png)
